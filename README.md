@@ -40,7 +40,7 @@ To run these projects locally, follow these steps:
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-repo-name
+   cd web_project
    ```
 3. Open the `index.html` file in your browser.
 
