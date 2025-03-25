@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(9, 18, 18);
+
+    
+
+
+    font-family: 'Inter','Urbanist',sans-serif;
+    display: grid;
+    place-content: center;
+}
+.container{
+    width: 35rem;
+    height: 12rem;
+    display: grid;
+   justify-content: left;
+   align-items: center;
+    
+    
+    background-color: #1f1f1f; 
+
+
+    border-radius: 1rem;
+   border: 0.2rem solid rgb(166, 78, 78);
+   /* filter: drop-shadow(3.2rem -2.7rem 8.4rem #a64e4e); */
+   box-shadow: rgba(166, 78, 78, 0.12) 0px 50px 100px -20px, rgba(166, 78, 78, 0.1) 0px 30px 60px -30px;
+   
+   
+   
+   
+   
+}
+.container:hover{
+    box-shadow: rgba(166, 78, 78, 0.12) 0px 1px 3px, rgba(166, 78, 78, 0.24) 0px 1px 2px;
+}
+
+
+
+.material-symbols-outlined {
+    /* padding: 1.2rem 0.2rem; */
+    color: #e6e0d4;
+    /* font-size: 4.8rem; */
+    
+    
+    /* font-variation-settings:
+    'FILL' 0,
+    'wght' 500,
+    'GRAD' 100,
+    'opsz'  48,
+    } */
+    
+}
+
+.stand{
+    width:19rem;
+    height:0.5rem;
+    background-color: #7fff00;
+    margin: auto;
+    border-radius: 1rem;
+    filter: drop-shadow(0rem 0.35rem 0.8rem #7fff00);
+    
+    
+
+
+
+
+}
+
+
+.time-text{
+    letter-spacing: 1px;
+    color: #e6e0d4;
+
+}
+.time{
+    display: grid;
+    place-content: center;
+    padding-left: 6.9rem;
+    font-size: 4rem;
+}

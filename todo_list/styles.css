@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body{
+   background-color: #1f1f1f;
+   color: rgb(244, 228, 228);
+  font-family: 'Poppins',sans-serif;
+}
+h1{
+   display: grid;
+   place-items: center;
+   margin-top: 4.5rem;
+   font-size: 3.1rem;
+   letter-spacing: 0.1rem;
+}
+.todo-main{
+   margin-top: 1.5rem;
+   display: grid;
+   grid-template-columns: 18.8rem 6.8rem;
+   column-gap: 2.1rem;
+   justify-content: center;
+   font-family: 'Urbanist',sans-serif;
+   & #input-val{
+       border-radius: 0.25rem;
+       padding-left: 2.4rem;
+       border: 0.1rem solid #1f1f1f;
+   }
+   
+
+   
+}
+.maintodolist{
+   margin-top: 1.5rem;
+   display: grid;
+   grid-template-columns: 18.8rem 6.8rem;
+   column-gap: 2.1rem;
+   justify-content: center;
+
+}
+
+button{
+  
+  padding: 0.7rem;
+  border-radius: 1.5rem;
+  background-color: chartreuse;
+  border: 0.1rem solid #1f1f1f;
+  letter-spacing: 0.05rem;
+  
+}
+button:active{
+   background-color: #1f1f1f;
+   border: 0.1rem solid chartreuse;
+   color: chartreuse;
+   
+   
+}
