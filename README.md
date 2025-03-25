@@ -9,7 +9,7 @@ Welcome to my Web Development Projects Showcase! This repository contains three 
 - **Features**:
   - Click to generate different visually appealing gradients.
   - Displays the color codes used in the generated gradient.
-- **Live Demo**: [Link to the deployed project]
+- **Live Demo**: [https://omi107227.github.io/web_project/background_Gradient_generator/index.html]
 
 ### 2. Project Two - Stopwatch
 - **Description**: A stopwatch application that interacts with the world clock.
@@ -17,7 +17,7 @@ Welcome to my Web Development Projects Showcase! This repository contains three 
   - Automatically starts running on load.
   - Can be stopped by clicking on the watch.
   - Restart by refreshing the page.
-- **Live Demo**: [Link to the deployed project]
+- **Live Demo**: [https://omi107227.github.io/web_project/stopwatch/index.html]
 
 ### 3. Project Three - To-Do List
 - **Description**: A simple to-do list application built with JavaScript.
@@ -25,7 +25,7 @@ Welcome to my Web Development Projects Showcase! This repository contains three 
   - Press enter to add new tasks.
   - Delete tasks individually by clicking the delete button.
   - Tasks persist even after refreshing until manually deleted.
-- **Live Demo**: [Link to the deployed project]
+- **Live Demo**: [https://omi107227.github.io/web_project/todo_list/index.html]
 
 ## 🛠 Technologies Used
 - **HTML** - Structuring the content

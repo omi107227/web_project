@@ -20,7 +20,7 @@ Welcome to the **Stopwatch Project**! This is a simple stopwatch application bui
 4. Refresh the page to restart the timer.
 
 ## 🔗 Live Demo
-[Live Demo Link](#) (Replace with your actual deployed link)
+[Live Demo Link](#) (https://omi107227.github.io/web_project/stopwatch/index.html)
 
 ## 📌 Future Improvements
 - Add pause and reset buttons.

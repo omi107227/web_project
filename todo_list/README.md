@@ -15,17 +15,17 @@ This is a simple **To-Do List** application built using **HTML, CSS, and JavaScr
 - **JavaScript** - For dynamic functionality.
 
 ## 🚀 Live Demo
-[Click here to view the live project](https://yourusername.github.io/your-repo-name/todo_list/)
+[Click here to view the live project](https://omi107227.github.io/web_project/todo_list/index.html)
 
 ## 📥 Getting Started
 To run this project locally, follow these steps:
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/omi107227/web_project.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-repo-name/todo_list
+   cd web_project
    ```
 3. Open `index.html` in your browser.
 
